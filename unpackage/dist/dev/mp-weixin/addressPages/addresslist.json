@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "通讯录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tn-nav-bar": "/tuniao-ui/components/tn-nav-bar/tn-nav-bar",
+    "tn-list-cell": "/tuniao-ui/components/tn-list-cell/tn-list-cell",
+    "tn-button": "/tuniao-ui/components/tn-button/tn-button",
+    "tn-tag": "/tuniao-ui/components/tn-tag/tn-tag",
+    "tn-avatar-group": "/tuniao-ui/components/tn-avatar-group/tn-avatar-group"
+  }
+}

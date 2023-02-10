@@ -1,0 +1,8 @@
+.tn-avatar-group.data-v-221b717a {
+  display: flex;
+  flex-direction: row;
+}
+.tn-avatar-group__item.data-v-221b717a {
+  position: relative;
+}
+
